@@ -1,4 +1,5 @@
-1. shopping list 
+<html>
+<head> <title>1. shopping list </title></head>
 2. ===========
 3. apple
 4. mango
@@ -14,4 +15,8 @@
 14. cakes
 15 snacks
 16 potaroes
-17 
+17 5.cherry
+6. blackberry
+7. changed
+8. blueberry
+9. </html>
